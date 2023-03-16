@@ -25,3 +25,4 @@ You’ll be building a beautiful egg timer app to boil your eggs to perfection d
 
 ![End Banner](Documentation/readme-end-banner.png)
 
+# Egg-Timer-App
